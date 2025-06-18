@@ -1,0 +1,4 @@
+[core]
+    remote = badrimj
+['remote "badrimj"']
+    url = s3://badridvc

@@ -1,0 +1,5 @@
+outs:
+- md5: 79f25050a04dee311eab5677af0edd31
+  size: 6570
+  hash: md5
+  path: sample_pca.csv
